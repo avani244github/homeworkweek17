@@ -1,0 +1,21 @@
+
+r
+java:S1104"\Make GET_ALL_STUDENTS a static final constant or non-public and provide accessors if needed.(óÒÈÎ
+p
+java:S1104"UMake Get_By_Id a static final constant or non-public and provide accessors if needed.(¸æšÈşÿÿÿÿ
+n
+java:S1104"XMake Post_Student a static final constant or non-public and provide accessors if needed.(°ÃŠæ
+L
+java:S1444"6Make this "public static GET_ALL_STUDENTS" field final(óÒÈÎ
+J
+java:S1444"/Make this "public static Get_By_Id" field final(¸æšÈşÿÿÿÿ
+H
+java:S1444"2Make this "public static Post_Student" field final(°ÃŠæ
+q
+java:S3008"[Rename this field "GET_ALL_STUDENTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÒÈÎ
+o
+java:S3008"TRename this field "Get_By_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸æšÈşÿÿÿÿ
+m
+java:S3008"WRename this field "Post_Student" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÃŠæ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(œÑ°áÿÿÿÿÿ
